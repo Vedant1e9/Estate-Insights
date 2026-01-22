@@ -1,4 +1,4 @@
-# Estate Insights 🏡📊
+# Estate Insights 
 
 **EstateInsights** is an innovative web application designed to empower users in the real estate market by providing advanced property price predictions, insightful analytics, and tailored apartment recommendations. The application leverages machine learning algorithms and data visualization techniques to help users make informed decisions when buying or renting properties.
 
